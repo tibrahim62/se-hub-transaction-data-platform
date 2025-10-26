@@ -9,8 +9,10 @@ SE HUB is an Oracle-based transactional data platform used to consolidate toll o
 - Centralized ingestion of field system files (ETL/validation)
 - PL/SQL packages for **daily reconciliation & settlements**
 - Exception handling and audit trails
+- **Daily Aging Report generation** to monitor outstanding receivables and payment performance
 - Oracle Reports/SQL queries for daily, monthly, and YTD KPIs
 - Job scheduling via **DBMS_SCHEDULER**
+
 
 ## Files
 - `schema.sql` – Core tables (ACCOUNTS, TOLL_TRANSACTIONS, SETTLEMENTS, ERROR_LOG)
