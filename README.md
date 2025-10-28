@@ -1,3 +1,15 @@
+# SE HUB – South East HUB Transaction Data Platform
+
+**Tech Stack:** Oracle Database 19c • PL/SQL • Oracle Forms • Oracle Reports • DBMS_SCHEDULER  
+**Use Cases:** Regional data consolidation • ETL automation • Daily reconciliation & settlements • Exception handling  
+
+**Author:** Tarek I. Adam — Oracle Cloud Certified Consultant *(Top 10 in Race to Certification 2025)*  
+
+SE HUB is an Oracle-based transactional data platform developed to consolidate toll operations across regional systems.  
+It provides nightly ETL, automated reconciliation and settlement logic, and operational reports for finance and operations.
+
+---
+
 ## Table of Contents
 - [Features](#features)
 - [Files](#files)
@@ -8,6 +20,7 @@
 - [Author](#author)
 
 ---
+
 
 ## Features
 - Centralized ingestion of field system files (ETL/validation)
@@ -76,6 +89,11 @@ sqlplus admin@your_db_alias @jobs_scheduler.sql
 
 ## Author
 
+
 Built by **Tarek I. Adam** – Oracle Cloud Certified Professional  
-as a public demonstration of practical Oracle AI Vector Search for transportation analytics.  
+as a public demonstration of practical Oracle analytics on Oracle Cloud.  
+**Stack:** Oracle ADB (Vector Search), PL/SQL, APEX, OAC, OIC  
 [LinkedIn](https://www.linkedin.com/in/tarek-i-adam) | [GitHub](https://github.com/tibrahim62)
+
+<p align="right"><a href="#table-of-contents">⬆ Back to top</a></p>
+
