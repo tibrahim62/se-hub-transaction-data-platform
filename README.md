@@ -89,7 +89,6 @@ sqlplus admin@your_db_alias @jobs_scheduler.sql
 
 ## Author
 
-
 Built by **Tarek I. Adam** – Oracle Cloud Certified Professional  
 as a public demonstration of practical Oracle analytics on Oracle Cloud.  
 **Stack:** Oracle ADB (Vector Search), PL/SQL, APEX, OAC, OIC  
